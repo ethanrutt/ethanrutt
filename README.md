@@ -1,4 +1,23 @@
-## Hi there 👋
+# Welcome to my GitHub!
+
+## About me
+* I'm a senior Honors Computer Science Major at Texas A&M University
+* I'm passionate about building software
+
+## Interests
+* I'm interested in C, C++, Python, Lua, Bash, HTML/CSS, JavaScript
+* I'm interested in Cybersecurity and CTF
+* I'm interested in Linux and open source software
+
+## Projects
+* I'm currently expanding my wordle clone
+* I'm currently building and self-hosting a portfolio website
+* I'm currently looking to contribute to open source
+* I'm currently setting up an automated dotfile management system
+
+## Contact me
+* Check my websites on my github profile
+* Email me at ethan.rutt2032@gmail.com
 
 <!--
 **ethanrutt/ethanrutt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
