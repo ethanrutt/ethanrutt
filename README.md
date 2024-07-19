@@ -3,8 +3,8 @@
 
 ## Tools and Technologies
 ![languages](https://img.shields.io/static/v1?label=&message=languages:&color=111&style=flat-square)
-![c](https://img.shields.io/static/v1?logo=c&label=&message=c&color=36465D&logoColor=AAA&style=flat-square&link=)
-![cpp](https://img.shields.io/static/v1?logo=c++&label=&message=c++&color=36465D&logoColor=AAA&style=flat-square)
+![c](https://img.shields.io/static/v1?logo=c&label=&message=c&color=36465D&logoColor=AAA&style=flat-square)
+![c++](https://img.shields.io/static/v1?logo=c++&label=&message=c++&color=36465D&logoColor=AAA&style=flat-square)
 ![python](https://img.shields.io/static/v1?logo=python&label=&message=python&color=36465D&logoColor=AAA&style=flat-square)
 ![javascript](https://img.shields.io/static/v1?logo=javascript&label=&message=javascript&color=36465D&logoColor=AAA&style=flat-square)
 &nbsp;&nbsp;&nbsp;
