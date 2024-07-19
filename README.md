@@ -15,6 +15,21 @@
 * I'm currently looking to contribute to open source
 * I'm currently setting up an automated dotfile management system
 
+## Tools and Technologies
+* Used professionally
+  * CMake and CTest
+  * Gitlab CI/CD
+  * Docker
+  * Jinja Templating
+  * PyTest
+* Used personally
+  * React
+  * Flask
+  * Selenium
+  * xv6 OS
+  * gRPC
+  * Render Deployments
+
 ## Contact me
 * Check my websites on my github profile
 * Email me at ethan.rutt2032@gmail.com
