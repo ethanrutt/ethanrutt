@@ -1,8 +1,8 @@
 ## About me
-* I'm a senior Honors Computer Science Major at Texas A&M University
+* I'm Ethan, a senior Honors Computer Science Major at Texas A&M University
 
 ## Tools and Technologies
-![languages](https://img.shields.io/static/v1?label=&message=languages:&color=6905e3&style=flat-square)
+![languages](https://img.shields.io/static/v1?label=&message=languages:&color=300169&style=flat-square)
 ![python](https://img.shields.io/static/v1?logo=python&label=&message=python&color=5405b5&logoColor=AAA&style=flat-square)
 ![c](https://img.shields.io/static/v1?logo=c&label=&message=c&color=5405b5&logoColor=AAA&style=flat-square)
 ![cpp](https://img.shields.io/static/v1?logo=cplusplus&label=&message=cpp&color=5405b5&logoColor=AAA&style=flat-square)
