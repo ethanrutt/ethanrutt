@@ -15,6 +15,7 @@
 ![cmake](https://img.shields.io/static/v1?logo=cmake&label=&message=cmake&color=027528&logoColor=AAA&style=flat-square)
 ![docker](https://img.shields.io/static/v1?logo=docker&label=&message=docker&color=027528&logoColor=AAA&style=flat-square)
 ![flask](https://img.shields.io/static/v1?logo=flask&label=&message=flask&color=027528&logoColor=AAA&style=flat-square)
+![jinja](https://img.shields.io/static/v1?logo=jinja&label=&message=jinja&color=027528&logoColor=AAA&style=flat-square)
 ![sql](https://img.shields.io/static/v1?logo=postgresql&label=&message=sql&color=027528&logoColor=AAA&style=flat-square)
 ![render](https://img.shields.io/static/v1?logo=render&label=&message=render&color=027528&logoColor=AAA&style=flat-square)
 ![tmux](https://img.shields.io/static/v1?logo=tmux&label=&message=tmux&color=027528&logoColor=AAA&style=flat-square)
