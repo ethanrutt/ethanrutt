@@ -22,9 +22,11 @@
 ![arch](https://img.shields.io/static/v1?logo=archlinux&label=&message=arch(btw)&color=027528&logoColor=AAA&style=flat-square)
 ![nvim](https://img.shields.io/static/v1?logo=neovim&label=&message=nvim&color=027528&logoColor=AAA&style=flat-square)
 
-## Projects
-* [Wordle clone (flask and vanilla JS)](https://github.com/ethanrutt/clordle)
+## In Progress Projects
 * [Automated dotfiles (ansible)](https://github.com/ethanrutt/dots)
+
+## Completed / Deprecated Projects
+* [Wordle clone (flask and vanilla JS)](https://github.com/ethanrutt/clordle)
 
 ## Contact me
 * Check my websites on my github profile
