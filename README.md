@@ -24,9 +24,10 @@
 
 ## In Progress Projects
 * [Automated dotfiles (ansible)](https://github.com/ethanrutt/dots)
+* [Windowhouse Pottery Website (React JS)](https://windowhouse-pottery.onrender.com/)
 
 ## Completed / Deprecated Projects
-* [Wordle clone (flask and vanilla JS)](https://github.com/ethanrutt/clordle)
+* [Wordle clone (flask and vanilla JS)](https://clordle.onrender.com/)
 
 ## Contact me
 * Check my websites on my github profile
