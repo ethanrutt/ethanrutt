@@ -28,6 +28,7 @@
 
 ## Completed / Deprecated Projects
 * [Wordle clone (flask and vanilla JS)](https://clordle.onrender.com/)
+* [Sainta Forum (MERN stack)](https://sainta-forum.net/)
 
 ## Contact me
 * Check my websites on my github profile
