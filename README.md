@@ -27,9 +27,8 @@
 * [Windowhouse Pottery Website (React JS)](https://windowhouse-pottery.onrender.com/)
 
 ## Completed / Deprecated Projects
-* [Wordle clone (flask and vanilla JS)](https://clordle.onrender.com/)
 * [Sainta Forum (MERN stack)](https://sainta-forum.net/)
+* [Wordle clone (Flask)](https://clordle.onrender.com/)
 
-## Contact me
-* Check my websites on my github profile
-* Email me at ethan.rutt2032@gmail.com
+## Website
+* [ethanrutt.dev](https://ethanrutt.dev/)
