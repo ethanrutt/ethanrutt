@@ -23,7 +23,7 @@
 ![nvim](https://img.shields.io/static/v1?logo=neovim&label=&message=nvim&color=027528&logoColor=AAA&style=flat-square)
 
 ## In Progress Projects
-* [Automated dotfiles (ansible)](https://github.com/ethanrutt/dots)
+* [Automated dotfiles (bash)](https://github.com/ethanrutt/dotfiles)
 * [Windowhouse Pottery Website (React JS)](https://windowhouse-pottery.onrender.com/)
 
 ## Completed / Deprecated Projects
