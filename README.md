@@ -8,6 +8,7 @@
 ![cpp](https://img.shields.io/static/v1?logo=cplusplus&label=&message=cpp&color=5405b5&logoColor=AAA&style=flat-square)
 ![javascript](https://img.shields.io/static/v1?logo=javascript&label=&message=javascript&color=5405b5&logoColor=AAA&style=flat-square)
 ![bash](https://img.shields.io/static/v1?logo=gnubash&label=&message=bash&color=5405b5&logoColor=AAA&style=flat-square)
+![rust](https://img.shields.io/static/v1?logo=rust&label=&message=rust&color=5405b5&logoColor=AAA&style=flat-square)
 &nbsp;&nbsp;&nbsp;
 
 ![tools](https://img.shields.io/static/v1?label=&message=tools:&color=034217&style=flat-square)
