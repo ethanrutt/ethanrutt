@@ -25,13 +25,13 @@
 
 ## In Progress Projects
 * [Automated dotfiles (bash)](https://github.com/ethanrutt/dotfiles)
-* [chadtop](https://github.com/ethanrutt/chadtop)
+* [chadtop (rust)](https://github.com/ethanrutt/chadtop)
 * [Windowhouse Pottery Website (React JS)](https://windowhouse-pottery.onrender.com/)
 
 ## Completed / Deprecated Projects
 * [Sainta Forum (MERN stack)](https://sainta-forum.net/)
 * [Wordle clone (Flask)](https://clordle.onrender.com/)
-* [awesome-config](https://github.com/ethanrutt/awesome-config)
+* [awesome-config (lua and awesomewm api)](https://github.com/ethanrutt/awesome-config)
 
 ## Website
 * [ethanrutt.dev](https://ethanrutt.dev/)
