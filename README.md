@@ -1,5 +1,5 @@
 ## About me
-* I'm Ethan, a senior Honors Computer Science Major at Texas A&M University
+* I'm Ethan, a TAMU Computer Science Graduate
 
 ## Tools and Technologies
 ![languages](https://img.shields.io/static/v1?label=&message=languages:&color=300169&style=flat-square)
@@ -24,11 +24,13 @@
 
 ## In Progress Projects
 * [Automated dotfiles (bash)](https://github.com/ethanrutt/dotfiles)
+* [chadtop](https://github.com/ethanrutt/chadtop)
 * [Windowhouse Pottery Website (React JS)](https://windowhouse-pottery.onrender.com/)
 
 ## Completed / Deprecated Projects
 * [Sainta Forum (MERN stack)](https://sainta-forum.net/)
 * [Wordle clone (Flask)](https://clordle.onrender.com/)
+* [awesome-config](https://github.com/ethanrutt/awesome-config)
 
 ## Website
 * [ethanrutt.dev](https://ethanrutt.dev/)
